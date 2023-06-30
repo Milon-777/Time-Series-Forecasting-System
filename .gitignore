@@ -1,0 +1,5 @@
+# dependencies
+/node_modules
+
+# unnecessary files
+/additional_files
